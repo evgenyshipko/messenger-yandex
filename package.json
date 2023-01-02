@@ -39,7 +39,7 @@
     "eslint-plugin-import": "2.22.1",
     "eslint-plugin-node": "11.1.0",
     "eslint-plugin-promise": "4.2.1",
-    "html-webpack-plugin": "4.5.1",
+    "html-webpack-plugin": "5.5.0",
     "husky": "4.3.7",
     "ignore-styles": "5.0.1",
     "jsdom": "16.4.0",
